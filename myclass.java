@@ -11,4 +11,5 @@ class myclass{
 		System.out.print("3");
 	}
 	public static void newMethod1(){}
+		public static void newMethod2(){}
 }
