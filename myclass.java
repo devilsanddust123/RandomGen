@@ -10,4 +10,5 @@ class myclass{
 	else
 		System.out.print("3");
 	}
+	public static void newMethod1(){}
 }
